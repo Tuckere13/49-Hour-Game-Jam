@@ -9,6 +9,9 @@ can_dash = false;
 dash_distance = 160;
 dash_time = 16;
 
+
+
+
 StateFree = function(){
 
     if place_meeting(x,y+2, obj_ground){
@@ -32,6 +35,10 @@ StateFree = function(){
     }
 
     move_and_collide(move_x, move_y, obj_ground );
+	
+	
+	
+	
 }
 
 StateDash = function(){
