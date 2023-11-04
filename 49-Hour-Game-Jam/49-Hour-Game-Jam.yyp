@@ -56,8 +56,8 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Evan_testRoom","path":"rooms/Evan_testRoom/Evan_testRoom.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Evan_testRoom","path":"rooms/Evan_testRoom/Evan_testRoom.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
