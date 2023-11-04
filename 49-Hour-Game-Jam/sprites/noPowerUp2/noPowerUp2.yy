@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "yesPowerUp3",
-  "bbox_bottom": 55,
-  "bbox_left": 12,
-  "bbox_right": 48,
-  "bbox_top": 12,
+  "name": "noPowerUp2",
+  "bbox_bottom": 56,
+  "bbox_left": 6,
+  "bbox_right": 51,
+  "bbox_top": 9,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d9c2f36b-a19b-4783-a067-a0d76e6bac71",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"98f7410f-5a64-40d9-ad00-862ce28cba2f",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a1a4ca04-8bd6-41ba-9292-4592bc38b732","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"88bb626d-c928-46d5-a42a-b39cf5b519e4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "yesPowerUp3",
+    "name": "noPowerUp2",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d9c2f36b-a19b-4783-a067-a0d76e6bac71","path":"sprites/yesPowerUp3/yesPowerUp3.yy",},},},"Disabled":false,"id":"c0d1932c-855d-48aa-be9c-de5491a586f8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"98f7410f-5a64-40d9-ad00-862ce28cba2f","path":"sprites/noPowerUp2/noPowerUp2.yy",},},},"Disabled":false,"id":"98f3935f-7ea5-4c22-94e9-cf0f12f761e1","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
