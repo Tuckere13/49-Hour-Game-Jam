@@ -31,6 +31,7 @@
     {"name":"obj_ice_ball","order":16,"path":"objects/obj_ice_ball/obj_ice_ball.yy",},
     {"name":"obj_selector","order":8,"path":"objects/obj_selector/obj_selector.yy",},
     {"name":"spr_customcursor","order":3,"path":"sprites/spr_customcursor/spr_customcursor.yy",},
+    {"name":"TestRoom","order":18,"path":"rooms/TestRoom/TestRoom.yy",},
     {"name":"obj_ground","order":1,"path":"objects/obj_ground/obj_ground.yy",},
     {"name":"obj_trail","order":12,"path":"objects/obj_trail/obj_trail.yy",},
     {"name":"obj_camera","order":14,"path":"objects/obj_camera/obj_camera.yy",},

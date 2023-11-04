@@ -52,6 +52,7 @@
     {"id":{"name":"obj_ice_ball","path":"objects/obj_ice_ball/obj_ice_ball.yy",},},
     {"id":{"name":"obj_selector","path":"objects/obj_selector/obj_selector.yy",},},
     {"id":{"name":"spr_customcursor","path":"sprites/spr_customcursor/spr_customcursor.yy",},},
+    {"id":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
     {"id":{"name":"obj_trail","path":"objects/obj_trail/obj_trail.yy",},},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
@@ -71,6 +72,7 @@
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Evan_testRoom","path":"rooms/Evan_testRoom/Evan_testRoom.yy",},},
+    {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
