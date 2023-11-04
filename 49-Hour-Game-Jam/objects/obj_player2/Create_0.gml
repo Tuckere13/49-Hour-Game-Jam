@@ -1,14 +1,3 @@
-/// @description Insert description here
-move_speed = 4;
-jump_speed = 16;
-
-move_x = 0;
-move_y = 0;
-
-hor_speed = 0;
-vert_speed = 0;
-
-can_jump = 10;
 can_dash = false;
 dash_distance = 160;
 dash_time = 15;
