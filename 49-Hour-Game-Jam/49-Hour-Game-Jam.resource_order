@@ -18,6 +18,7 @@
   "ResourceOrderSettings": [
     {"name":"obj_yesPowerUp","order":11,"path":"objects/obj_yesPowerUp/obj_yesPowerUp.yy",},
     {"name":"noPowerUp","order":2,"path":"sprites/noPowerUp/noPowerUp.yy",},
+    {"name":"obj_spike","order":13,"path":"objects/obj_spike/obj_spike.yy",},
     {"name":"Sprite2","order":15,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Sprite3","order":16,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"obj_player2","order":10,"path":"objects/obj_player2/obj_player2.yy",},
@@ -28,10 +29,14 @@
     {"name":"obj_selector","order":8,"path":"objects/obj_selector/obj_selector.yy",},
     {"name":"obj_ground","order":1,"path":"objects/obj_ground/obj_ground.yy",},
     {"name":"obj_trail","order":12,"path":"objects/obj_trail/obj_trail.yy",},
+    {"name":"obj_camera","order":14,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_abilities_gui","order":2,"path":"objects/obj_abilities_gui/obj_abilities_gui.yy",},
     {"name":"Sprite7","order":9,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"snd_metal_pipe","order":1,"path":"sounds/snd_metal_pipe/snd_metal_pipe.yy",},
     {"name":"Evan_testRoom","order":1,"path":"rooms/Evan_testRoom/Evan_testRoom.yy",},
+    {"name":"Sprite10","order":17,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"Sprite6","order":7,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
     {"name":"obj_ability_0","order":4,"path":"objects/obj_ability_0/obj_ability_0.yy",},
   ],
 }
