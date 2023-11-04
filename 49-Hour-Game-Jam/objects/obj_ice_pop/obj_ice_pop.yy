@@ -1,9 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_projectile",
+  "name": "obj_ice_pop",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_ice_ball",
-    "path": "sprites/spr_ice_ball/spr_ice_ball.yy",
+    "name": "spr_ice_pop",
+    "path": "sprites/spr_ice_pop/spr_ice_pop.yy",
   },
   "spriteMaskId": null,
   "visible": true,
