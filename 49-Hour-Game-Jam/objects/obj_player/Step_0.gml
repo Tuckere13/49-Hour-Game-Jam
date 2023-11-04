@@ -1,3 +1,4 @@
+
 keyRight = keyboard_check(vk_right);
 keyLeft = keyboard_check(vk_left);
 keyJump = keyboard_check_pressed(vk_space);
@@ -7,3 +8,5 @@ keyDash = keyboard_check_pressed(vk_shift);
 
 
 state();
+
+
