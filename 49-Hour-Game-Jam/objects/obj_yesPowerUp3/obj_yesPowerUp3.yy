@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "yesPowerUp3",
-    "path": "sprites/yesPowerUp3/yesPowerUp3.yy",
+    "name": "yesPowerUp",
+    "path": "sprites/yesPowerUp/yesPowerUp.yy",
   },
   "spriteMaskId": null,
   "visible": true,
