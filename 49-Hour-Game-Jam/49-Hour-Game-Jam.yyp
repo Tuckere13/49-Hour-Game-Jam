@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"obj_yesPowerUp","path":"objects/obj_yesPowerUp/obj_yesPowerUp.yy",},},
     {"id":{"name":"noPowerUp","path":"sprites/noPowerUp/noPowerUp.yy",},},
+    {"id":{"name":"spr_ice_pop","path":"sprites/spr_ice_pop/spr_ice_pop.yy",},},
     {"id":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
