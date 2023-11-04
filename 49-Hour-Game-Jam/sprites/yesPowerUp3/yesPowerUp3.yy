@@ -54,7 +54,11 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+<<<<<<< Updated upstream
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d9c2f36b-a19b-4783-a067-a0d76e6bac71","path":"sprites/yesPowerUp3/yesPowerUp3.yy",},},},"Disabled":false,"id":"60372dc6-67c1-4da8-a06a-06dc37267c5a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+=======
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d9c2f36b-a19b-4783-a067-a0d76e6bac71","path":"sprites/yesPowerUp3/yesPowerUp3.yy",},},},"Disabled":false,"id":"e288108a-166f-4994-b98e-d19da1e8bcbb","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+>>>>>>> Stashed changes
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
