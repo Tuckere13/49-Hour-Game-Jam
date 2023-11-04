@@ -19,6 +19,14 @@
   "ResourceOrderSettings": [
     {"name":"Sprite2","order":16,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Sprite3","order":17,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"obj_ability_1","order":5,"path":"objects/obj_ability_1/obj_ability_1.yy",},
+    {"name":"Sprite5","order":6,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"obj_selector","order":8,"path":"objects/obj_selector/obj_selector.yy",},
     {"name":"obj_ground","order":1,"path":"objects/obj_ground/obj_ground.yy",},
+    {"name":"obj_abilities_gui","order":2,"path":"objects/obj_abilities_gui/obj_abilities_gui.yy",},
+    {"name":"Sprite7","order":9,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"Sprite6","order":7,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"obj_ability_0","order":4,"path":"objects/obj_ability_0/obj_ability_0.yy",},
   ],
 }
