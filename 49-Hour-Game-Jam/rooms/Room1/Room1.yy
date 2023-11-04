@@ -16,7 +16,6 @@
     {"name":"inst_881D365","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_4CB3AD9C","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_5A9284E1","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_19708ED0","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [

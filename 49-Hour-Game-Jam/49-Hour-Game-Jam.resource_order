@@ -35,6 +35,7 @@
     {"name":"obj_abilities_gui","order":2,"path":"objects/obj_abilities_gui/obj_abilities_gui.yy",},
     {"name":"Sprite7","order":9,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"snd_metal_pipe","order":1,"path":"sounds/snd_metal_pipe/snd_metal_pipe.yy",},
+    {"name":"spr_ice_ball","order":4,"path":"sprites/spr_ice_ball/spr_ice_ball.yy",},
     {"name":"Evan_testRoom","order":1,"path":"rooms/Evan_testRoom/Evan_testRoom.yy",},
     {"name":"Sprite10","order":17,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"Sprite6","order":7,"path":"sprites/Sprite6/Sprite6.yy",},
