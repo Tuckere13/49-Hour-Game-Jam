@@ -18,6 +18,7 @@
   "ResourceOrderSettings": [
     {"name":"obj_yesPowerUp","order":11,"path":"objects/obj_yesPowerUp/obj_yesPowerUp.yy",},
     {"name":"noPowerUp","order":2,"path":"sprites/noPowerUp/noPowerUp.yy",},
+    {"name":"spr_ice_pop","order":5,"path":"sprites/spr_ice_pop/spr_ice_pop.yy",},
     {"name":"obj_spike","order":13,"path":"objects/obj_spike/obj_spike.yy",},
     {"name":"obj_controller","order":15,"path":"objects/obj_controller/obj_controller.yy",},
     {"name":"Sprite2","order":15,"path":"sprites/Sprite2/Sprite2.yy",},
