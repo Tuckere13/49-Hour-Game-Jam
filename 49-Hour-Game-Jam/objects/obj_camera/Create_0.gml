@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-cam_width = 580;
-cam_height =380;
+cam_width = 763;
+cam_height =500;
 
 follow = obj_player;
 
