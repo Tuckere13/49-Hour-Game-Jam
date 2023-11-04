@@ -18,8 +18,14 @@
   "ResourceOrderSettings": [
     {"name":"obj_yesPowerUp","order":11,"path":"objects/obj_yesPowerUp/obj_yesPowerUp.yy",},
     {"name":"noPowerUp","order":2,"path":"sprites/noPowerUp/noPowerUp.yy",},
+    {"name":"obj_goal","order":16,"path":"objects/obj_goal/obj_goal.yy",},
     {"name":"obj_spike","order":13,"path":"objects/obj_spike/obj_spike.yy",},
+    {"name":"Sprite13","order":19,"path":"sprites/Sprite13/Sprite13.yy",},
     {"name":"obj_controller","order":15,"path":"objects/obj_controller/obj_controller.yy",},
+    {"name":"roomroom","order":4,"path":"rooms/roomroom/roomroom.yy",},
+    {"name":"Sprite14","order":20,"path":"sprites/Sprite14/Sprite14.yy",},
+    {"name":"obj_start","order":17,"path":"objects/obj_start/obj_start.yy",},
+    {"name":"rooom","order":3,"path":"rooms/rooom/rooom.yy",},
     {"name":"Sprite2","order":15,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Sprite3","order":16,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"obj_player2","order":10,"path":"objects/obj_player2/obj_player2.yy",},
@@ -40,6 +46,8 @@
     {"name":"Sprite6","order":7,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"Sprite11","order":18,"path":"sprites/Sprite11/Sprite11.yy",},
     {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
+    {"name":"obj_bonez","order":18,"path":"objects/obj_bonez/obj_bonez.yy",},
+    {"name":"Sprite15","order":21,"path":"sprites/Sprite15/Sprite15.yy",},
     {"name":"obj_ability_0","order":4,"path":"objects/obj_ability_0/obj_ability_0.yy",},
   ],
 }
