@@ -13,7 +13,9 @@ else if move_y < 10
 
 move_and_collide(move_x, move_y, obj_ground /*ground*/);
 
+/*
 if move_x != 0
 {
 	image_xscale = sign(move_x);
 }
+*/
