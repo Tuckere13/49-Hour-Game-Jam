@@ -4,12 +4,20 @@ vsp = 0;
 hspWalk = 3.5;
 vspJump = -6;
 canJump = 0;
+
+//Dash
 canDashLeft= true; 
 canDashRight = true;
 canDashUp = true;
 canDashDown = true;
 dashDistance = 160;
 dashTime = 16;
+
+//Ice Ball
+aim_dir = 0;
+ice_dis = 11;
+can_use_ice = true;
+ice_speed = 8;
 
 
 StateFree = function()
@@ -57,6 +65,28 @@ StateFree = function()
 		}
 		
 	}
+	
+	//Iceball input
+	if (keyIce)
+	{
+		if can_use_ice == true 
+		{
+			can_use_ice = false;
+			
+			var _dir =point_direction(x, y, mouse_x, mouse_y);
+			
+			var _inst = instance_create_layer(x, y, "Projectiles", obj_ice_ball);
+			with(_inst) 
+			{
+				speed =other.ice_speed;
+				direction = _dir;
+				image_angle = _dir;
+				owner_id = other;
+			}
+		}
+	}
+			
+		
 
 	//Collide and Move
 	if (place_meeting(x + hsp, y, obj_ground))

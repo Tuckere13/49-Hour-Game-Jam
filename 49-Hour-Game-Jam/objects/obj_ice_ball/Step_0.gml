@@ -1,4 +1,4 @@
 var _dis = point_distance(xstart, ystart, x, y);
-if dis >range {
+if _dis >range {
 	ice_die();
 }
